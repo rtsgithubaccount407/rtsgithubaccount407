@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Bhardwaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" al="img" align="right" width="400px"/>
+<img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" al="img" align="right" width="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtsgithubaccount407&label=Profile%20views&color=0e75b6&style=flat" alt="rtsgithubaccount407" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **rohitsharmaji407@gmail.com**
-
-- ⚡ Fun fact **Welcome to our repository's Fun Fact Icon section! 🌟 Here, we share fascinating and amusing facts to brighten your day and add a dash of excitement to your coding journey. Dive in and discover intriguing nuggets of knowledge that might just bring a smile to your face!**
+🌟 Here, we share fascinating and amusing facts to brighten your day and add a dash of excitement to your coding journey. Dive in and discover intriguing nuggets of knowledge that might just bring a smile to your face!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
